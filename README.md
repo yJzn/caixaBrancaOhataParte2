@@ -1,7 +1,9 @@
 # Atividade Caixa Branca (Parte 2)
 
 <h2>Output do TesteCalculadora via terminal</h2>
-<img width="650" height="198" alt="image" src="https://github.com/user-attachments/assets/db07a50b-e5a9-49e8-8b9e-856123bce6d6" />
+<img width="1023" height="145" alt="image" src="https://github.com/user-attachments/assets/41fb507f-ac9b-46bf-8fce-284f9c13b1f4" />
+
 
 <h2>Refatoração</h2>
-<img width="641" height="185" alt="image" src="https://github.com/user-attachments/assets/4d419b35-3fae-4724-8378-baf49ecbdb05" />
+<img width="1023" height="145" alt="image" src="https://github.com/user-attachments/assets/1053be66-4ffc-4378-86de-143dc296db0d" />
+
