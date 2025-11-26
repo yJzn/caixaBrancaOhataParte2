@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug TesteCalculadora",
+            "request": "launch",
+            "mainClass": "calculadora.TesteCalculadora",
+            "cwd": "${workspaceFolder}/src"
+        }
+    ]
+}
