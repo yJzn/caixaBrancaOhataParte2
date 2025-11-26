@@ -35,6 +35,7 @@ public class Calculadora {
     }
 
     /**
+     * Subtrai o segundo número inteiro do primeiro.
      * 
      * @param a primeiro operando
      * @param b segundo operando
@@ -45,6 +46,7 @@ public class Calculadora {
     }
 
     /**
+     * Multiplica dois números inteiros.
      *
      * @param a primeiro operando
      * @param b segundo operando
@@ -55,6 +57,7 @@ public class Calculadora {
     }
 
     /**
+     * Divide o primeiro número inteiro pelo segundo.
      *
      * @param a primeiro operando
      * @param b segundo operando
